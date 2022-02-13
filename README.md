@@ -1,1 +1,1 @@
-# Q-learning_function_code
+# Bayesian_RL_R_code
